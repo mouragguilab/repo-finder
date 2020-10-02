@@ -1,6 +1,6 @@
 # RepoFinder
 
-An application that searches for varied repositories on github
+An application that searches and lists github repositories
 
 ## Getting Started
 
