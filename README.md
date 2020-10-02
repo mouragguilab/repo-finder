@@ -19,7 +19,7 @@ npm start
 Running tests
 
 ```
-npm install
+npm run test
 ```
 
 Running application build
